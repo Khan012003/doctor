@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://doctor-backend.onrender.com/api/$1"
+      "destination": "https://doctor-backend-a4av.onrender.com/api/$1"
     },
     {
       "source": "/(.*)",
